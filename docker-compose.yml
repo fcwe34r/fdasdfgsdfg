@@ -8,6 +8,6 @@ services:
     ports:
       - "8181:8181"
     environment:
-      - PANDORA_NEXT_LICENSE=<JWT Token>
+      - PANDORA_NEXT_LICENSE=curl -fLO "https://dash.pandoranext.com/data/BuNZazQcnBYmDmyXm3Mre_8K76Nsuy7GAwDWlRPQo3A/license.jwt"
     volumes:
       - ./data:/data
