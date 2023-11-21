@@ -1,17 +1,9 @@
 {
-  "test-1": {
-    "token": "access token / session token / refresh token",
-    "shared": true,
-    "show_user_info": false
-  },
+ 
   "test-2": {
-    "token": "access token / session token / refresh token",
+    "token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJzYXJ5YWxhc2lyaUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0sImh0dHBzOi8vYXBpLm9wZW5haS5jb20vYXV0aCI6eyJwb2lkIjoib3JnLUJCa3ZxWEN1ZUczT3J3S050bVpsb0Q5ZSIsInVzZXJfaWQiOiJ1c2VyLWMzd2JMaDU3ZG8wZzl2RlptOG81cFVBWCJ9LCJpc3MiOiJodHRwczovL2F1dGgwLm9wZW5haS5jb20vIiwic3ViIjoiYXV0aDB8NjNiOWZmMzkzN2FjMzU1OTRkNjM2NjljIiwiYXVkIjpbImh0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEiLCJodHRwczovL29wZW5haS5vcGVuYWkuYXV0aDBhcHAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTcwMDU1OTIxMiwiZXhwIjoxNzAxNDIzMjEyLCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9yZ2FuaXphdGlvbi53cml0ZSBvZmZsaW5lX2FjY2VzcyJ9.BM3L6KhB1bBK3b4fRr9Dq2E4GR2arl8CXopO2xDtRxrVVH_qhA8VRBecTGVcMhp7ltPPzg3qmxm0XX6-XO41zVPFrnCjyRt5GkzsE5WQGOiSJrZS3VD9PNwOADIwr8GgyMFKwWuPuFbSz9y-N80yPYeuij46eTzxvO-zgRDgXgzjiUkztr2N0wBadKi3d9RUak2PKZtVPxqjGpkOC1pNsqfV3DFjeKEQAUgKEak_U8bFAKJqCJ5OE9cRGOn-UkjDWk3W5fgWFcAGDHN6szV_roleHCiFT77ExAdcHfa2uKM_dWabwFHmV3YktAQ9bAiTX-NZX_9A7ulzJDP8T6WhHA",
     "shared": true,
     "show_user_info": true,
     "plus": true
-  },
-  "test2": {
-    "token": "access token / session token / refresh token / share token",
-    "password": "12345"
   }
 }
